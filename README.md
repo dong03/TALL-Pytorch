@@ -1,6 +1,6 @@
 PyTorch version of "TALL: Temporal Activity Localization via Language Query. Gao et al. ICCV2017."
 =====
-Thanks to tensorflow code from jiyanggao/TALL. 
+Thanks to tensorflow code from [jiyanggao/TALL](https://github.com/jiyanggao/TALL). 
 
 Require:<br>
 >Python 3.x<br>
